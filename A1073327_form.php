@@ -14,12 +14,12 @@
 Name: <input type="text" placeholder="Chinese" name="username">
 	  <input type="text" placeholder="English" name="username"><br/><br/>
 Gender: Male<input type="radio" name="gender" value="Male">
-	    Female<input type="radio" name="gender" value="Female"><br/><br/>
+	Female<input type="radio" name="gender" value="Female"><br/><br/>
 Date of Birth: <input type="date" name="date"><br/><br/>
-Blood Type: O<input type="radio" name="blood1" value="O">
-	    	A<input type="radio" name="blood2" value="A">
-	    	B<input type="radio" name="blood3" value="B">
-	    	AB<input type="radio" name="blood4" value="AB"><br/><br/>
+Blood Type: O<input type="radio" name="blood" value="O">
+	    A<input type="radio" name="blood" value="A">
+	    B<input type="radio" name="blood" value="B">
+	    AB<input type="radio" name="blood" value="AB"><br/><br/>
 Identity Card Number: <input type="text" name="Card"><br/><br/>
 Phone Number: <input type="text" name="Phone"><br/><br/>
 Please upload your photo: <input type="file"><br/><br/>
@@ -45,10 +45,10 @@ Where do you live?
 		<tr><td>XL</td><td>55</td><td>58</td><td>74</td></tr>
 	</table>
 
-Clothing Size: S<input type="radio" name="size1" value="S">
-	    	   M<input type="radio" name="size2" value="M">
-	    	   L<input type="radio" name="size3" value="L">
-	    	   XL<input type="radio" name="size4" value="XL"><br/><br/>
+Clothing Size: S<input type="radio" name="size" value="S">
+	    	   M<input type="radio" name="size" value="M">
+	    	   L<input type="radio" name="size" value="L">
+	    	   XL<input type="radio" name="size" value="XL"><br/><br/>
 
 Diet Preferences: Non-Vegetarian<input type="radio" name="diet1" value="Non-Vegetarian">
 	    		  Vegetarian<input type="radio" name="diet2" value="Vegetarian"><br/><br/>
